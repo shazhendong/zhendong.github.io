@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shazhendong.github.io</id>
+    <title>Zhēndòng Shā 沙桢栋</title>
+    <updated>2023-06-15T22:19:28.048Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://shazhendong.github.io"/>
+    <link rel="self" href="https://shazhendong.github.io/atom.xml"/>
+    <subtitle>The Dao gives birth to one, one to two, two to three, and three to all things. --Laozi 老子</subtitle>
+    <logo>https://shazhendong.github.io/images/avatar.png</logo>
+    <icon>https://shazhendong.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Zhēndòng Shā 沙桢栋</rights>
+    <entry>
+        <title type="html"><![CDATA[About me]]></title>
+        <id>https://shazhendong.github.io/post/about/</id>
+        <link href="https://shazhendong.github.io/post/about/">
+        </link>
+        <updated>2023-02-01T20:32:08.000Z</updated>
+        <summary type="html"><![CDATA[<p>Zhendong Sha (<a href="https://queensuca-my.sharepoint.com/:b:/g/personal/19zs17_queensu_ca/EfZ6T3EGcLRBqV1-9DrG1BQB5jPQO4i4gz8JqSnoGnTOtw?e=G2uDOo">CURRICULUM VITAE</a>) received the B.Sc. degree from Nanjing University Jinling College, Nanjing, China, in 2013 and the Master degree in Computer Science from the University of New Brunswick, Fredericton, Canada, in 2018. Under the supervision of Drs. <a href="https://www.cs.queensu.ca/people/Ting/Hu">Ting Hu</a> and <a href="https://www.cs.queensu.ca/people/Yuanzhu/Chen">Yuanzhu Chen</a> at Queen’s University, his ongoing Ph.D. research covers developing novel feature selection methods for high-dimensional genetic data with an emphasis on gene-gene interaction and genetic heterogeneity.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Zhendong Sha (<a href="https://queensuca-my.sharepoint.com/:b:/g/personal/19zs17_queensu_ca/EfZ6T3EGcLRBqV1-9DrG1BQB5jPQO4i4gz8JqSnoGnTOtw?e=G2uDOo">CURRICULUM VITAE</a>) received the B.Sc. degree from Nanjing University Jinling College, Nanjing, China, in 2013 and the Master degree in Computer Science from the University of New Brunswick, Fredericton, Canada, in 2018. Under the supervision of Drs. <a href="https://www.cs.queensu.ca/people/Ting/Hu">Ting Hu</a> and <a href="https://www.cs.queensu.ca/people/Yuanzhu/Chen">Yuanzhu Chen</a> at Queen’s University, his ongoing Ph.D. research covers developing novel feature selection methods for high-dimensional genetic data with an emphasis on gene-gene interaction and genetic heterogeneity.</p>
+<!-- more -->
+<h1 id="my-research">🔍 My research</h1>
+<p>Zhendong’s primary research area is feature selection using information theory, evolutionary computation and network science. Through his long-term research goals, Zhendong aims to develop a comprehensive analytical framework that will provide clinicians with disease risk predictive models and personalized treatment plans based on a patient’s genetic background.</p>
+<h1 id="education">🏫 Education</h1>
+<p>2019~Now: Queen's University, Canada<br>
+2017~2019: Memorial University, Canada<br>
+2014~2017: Univerity of New Brunswick, Canada<br>
+2013~2014: Southeast University, China<br>
+2011~2013: Nanjing University Jinling College, China<br>
+2009~2011: Nanjing Institute of Railway Technology, China</p>
+<h1 id="contact-me">📬 Contact me</h1>
+<p>Email: $firstn dot $lastn AT queensu dot ca</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selected publications]]></title>
+        <id>https://shazhendong.github.io/post/publications/</id>
+        <link href="https://shazhendong.github.io/post/publications/">
+        </link>
+        <updated>2021-11-07T01:38:56.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="2023">2023</h1>
+<ul>
+<li><strong>Sha Z</strong>, Chen Y, Hu T. NSPA: characterizing the disease association of multiple genetic interactions at single-subject resolution. Bioinformatics Advances. 2023 Feb 7</li>
+</ul>
+<h1 id="2022">2022</h1>
+<ul>
+<li><strong>Sha Z</strong>, Chen Y, Hu T. Genetic heterogeneity analysis using genetic algorithm and network science. InProceedings of the Genetic and Evolutionary Computation Conference Companion 2022 Jul 9 (pp. 763-766).</li>
+</ul>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="2023">2023</h1>
+<ul>
+<li><strong>Sha Z</strong>, Chen Y, Hu T. NSPA: characterizing the disease association of multiple genetic interactions at single-subject resolution. Bioinformatics Advances. 2023 Feb 7</li>
+</ul>
+<h1 id="2022">2022</h1>
+<ul>
+<li><strong>Sha Z</strong>, Chen Y, Hu T. Genetic heterogeneity analysis using genetic algorithm and network science. InProceedings of the Genetic and Evolutionary Computation Conference Companion 2022 Jul 9 (pp. 763-766).</li>
+</ul>
+<!-- more -->
+<h1 id="2021">2021</h1>
+<ul>
+<li><strong>Sha Z</strong>, Hu T, Chen Y. Feature Selection for Polygenic Risk Scores using Genetic Algorithm and Network Science. In2021 IEEE Congress on Evolutionary Computation (CEC) 2021 Jun 28 (pp. 802-808). IEEE.</li>
+</ul>
+<h1 id="2016">2016</h1>
+<ul>
+<li>Boley H, Benzmüller C, Luan M, <strong>Sha Z.</strong> Translating Higher-Order Modal Logic from RuleML to TPTP. InRuleML (Supplement) 2016.</li>
+</ul>
+<!-- more -->
+]]></content>
+    </entry>
+</feed>
